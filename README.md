@@ -2,6 +2,10 @@
 CS5100 - Data Analysis - Data Transformation Algorithms
 
 
-Data Transformation using Logarithm-Transform Algorithm
+Data Transformations:
 
-- Logarithm-Transform:
+- [x] Logarithm-Transform 
+- [ ] k-step simple moving average (for time series)
+- [ ] Aggregation
+- [ ] Min-max normalization
+- [ ] Standardization
